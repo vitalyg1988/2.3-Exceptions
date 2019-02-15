@@ -49,6 +49,4 @@ def main_func():
         print(error)
 
 
-if __name__ == '__main__':
-    print('"Реализация Польской Нотации"')
-    main_func()
+main_func()
